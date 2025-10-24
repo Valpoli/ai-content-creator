@@ -18,7 +18,11 @@ __pycache__/
 *.jpeg
 *.json
 *.identifier
+*.svg
 
 # Ignorer tout le dossier histore, proprement
 histoire/
 story_todo.json
+
+# keep docs
+!docs/*.*
