@@ -1,0 +1,32 @@
+# dossier principal avec toutes les histoires dedans
+base_story_dir : "histoire/"
+
+# ia générative choisie (mistral / openai)
+ia_generative : "openai"
+
+# generer les images avec leonardo (true / false)
+leonardo : true
+# si true ne prend pas en compte le theme
+random : false
+# picture theme
+# Available themes:
+# - ghibli           : soft, magical, nature-based, poetic (default)
+# - pixar            : colorful, expressive, cartoonish with emotional tone
+# - crayon           : pastel or hand-drawn style, looks like a child’s drawing
+# - classic          : Beatrix Potter style, soft countryside and dressed animals
+# - dreamworks       : soft fantasy adventure, dragons and mystical creatures without violence
+#  leonardo : pour l'ia debile de leonardo
+# Choose the theme in the config with key: "theme"
+theme: leonardo
+# [ghibli, pixar, dreamworks]
+all_themes : [dreamworks]
+
+# voice used (elisa / nathan)
+voice : "nathan"
+
+# musique used
+libre_de_droit : false
+music : "hxh"
+
+# subtitle size
+words_per_line : 5

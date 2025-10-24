@@ -1,0 +1,24 @@
+# Environnements virtuels
+venv/
+.env
+
+# Caches Python
+__pycache__/
+*.pyc
+
+# Fichiers temporaires ou inutiles
+*.db
+*.mp4
+*.txt
+*.mp3
+
+# Images
+*.png
+*.jpg
+*.jpeg
+*.json
+*.identifier
+
+# Ignorer tout le dossier histore, proprement
+histoire/
+story_todo.json
