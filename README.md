@@ -5,7 +5,10 @@
 **Goal:**
 A fully automated system that creates complete story-based videos: script writing, image generation, voice synthesis, subtitles, editing, and background music.
 
-You can check more examples on [YouTube – Labelle Histoire du Soir](https://www.youtube.com/@Labellehistoiredusoir).
+You can check more examples on 
+<a href="https://www.youtube.com/@Labellehistoiredusoir" target="_blank" rel="noopener noreferrer">
+  YouTube – LabelleHistoireduSoir
+</a>
 
 ## Stack
 
